@@ -14,7 +14,7 @@
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=UI%20UX%20Design&fontSize=24&fontColor=FE4A22" alt="UI UX Design">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=UI%20UX%20Design&fontSize=18&fontColor=FE4A22" alt="UI UX Design">
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Me%20Contacter&fontSize=24&fontColor=FE4A22" alt="Me Contacter">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Me%20Contacter&fontSize=18&fontColor=FE4A22" alt="Me Contacter">
 
   <p align="center">
     <a href="mailto:melindaaland1@gmail.com">
