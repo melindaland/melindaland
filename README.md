@@ -11,7 +11,7 @@
   <br><br>
 
   <a href="https://portfolio-melnda.netlify.app/">
-    <img src="https://img.shields.io/badge/✨_Voir_Mon_Portfolio_Web-18181B?style=for-the-badge&logo=framer&logoColor=A78BFA&labelColor=27272A" height="50" />
+    <img src="https://img.shields.io/badge/✨_Voir_Mon_Portfolio-ce2e6c?style=for-the-badge&logo=framer&logoColor=white&labelColor=A78BFA" height="50" />
   </a>
 
   <br><br><br>
@@ -30,23 +30,11 @@
   <h3 style="color: #A78BFA;">💻 Tech Stack</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,sass,symfony,php,mysql,git,vscode&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,sass,symfony,laravel,php,mysql,git,vscode&theme=dark&perline=6" />
     </a>
   </p>
 
   <br><br>
-
-  <h3 style="color: #A78BFA;">📊 Coding Activity</h3>
-  
-  <p align="center">
-    <a href="https://github.com/melindaland">
-      <img src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&theme=dark&hide_border=false" height="160" alt="Stats" />
-    </a>
-    
-    <a href="https://github.com/melindaland">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=melindaland&theme=dark&hide_border=false" height="160" alt="Streak" />
-    </a>
-  </p>
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&theme=dark&hide_border=false" height="160" alt="Languages" />
@@ -58,17 +46,18 @@
   
   <br>
 
+  <h3 style="color: #A78BFA;">📫 Me Contacter</h3>
   <p align="center">
     <a href="mailto:TON_EMAIL@GMAIL.COM">
-      <img src="https://img.shields.io/badge/Email-Me-EF4444?style=flat-square&logo=gmail&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/TON-PROFIL/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
     </a>
     &nbsp;
     <a href="https://discord.com/users/TON_ID">
-      <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
     </a>
   </p>
 
