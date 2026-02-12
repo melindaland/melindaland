@@ -18,14 +18,14 @@
   <h3 style="color: #A78BFA;">UI/UX & Design</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,blender,ae&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=figma,ai,ps,blender&theme=dark" />
     </a>
   </p>
 
   <h3 style="color: #A78BFA;">Tech Stack</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,sass,symfony,laravel,php,mysql,git,vscode&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,js,bootstrap,tailwind,sass,symfony,laravel,php,mysql,git,vscode&theme=dark&perline=6" />
     </a>
   </p>
 
@@ -40,11 +40,9 @@
     <a href="mailto:melindaaland1@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
     </a>
-    &nbsp;
     <a href="https://www.linkedin.com/in/melindaaland/">
       <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
     </a>
-    &nbsp;
     <a href="https://discord.com/users/814067233424539648">
       <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
     </a>
