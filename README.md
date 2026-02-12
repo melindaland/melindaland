@@ -40,9 +40,16 @@
   
   <p align="center">
     <a href="https://github.com/melindaland">
-      <img src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&theme=omni&hide_border=true&bg_color=161b22&count_private=true&title_color=A78BFA&icon_color=A78BFA" height="170" alt="Melinda's Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&theme=omni&hide_border=true&bg_color=161b22&title_color=A78BFA" height="170" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&theme=dark&hide_border=false" height="160" alt="Stats" />
     </a>
+    
+    <a href="https://github.com/melindaland">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=melindaland&theme=dark&hide_border=false" height="160" alt="Streak" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&theme=dark&hide_border=false" height="160" alt="Languages" />
   </p>
 
   <br><br>
