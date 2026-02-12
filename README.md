@@ -2,11 +2,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Melinda&fontSize=80&fontAlignY=35&desc=Front-End%20Dev%20%7C%20UI%2FUX%20Designer&descAlignY=65&descSize=20&animation=fadeIn&fontColor=ffffff&customColorList=18">
 
-  <br>
-
-  <a href="https://github.com/melindaland">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+immersive+web+experiences.;Pixel-perfect+design+lover.;Turning+coffee+into+code." alt="Typing SVG" />
-  </a>
 
   <br><br>
 
@@ -20,14 +15,14 @@
   
   <br><br>
 
-  <h3 style="color: #A78BFA;">🎨 UI/UX & Design</h3>
+  <h3 style="color: #A78BFA;">UI/UX & Design</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,blender,ae&theme=dark" />
     </a>
   </p>
 
-  <h3 style="color: #A78BFA;">💻 Tech Stack</h3>
+  <h3 style="color: #A78BFA;">Tech Stack</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,sass,symfony,laravel,php,mysql,git,vscode&theme=dark&perline=6" />
@@ -35,10 +30,6 @@
   </p>
 
   <br><br>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&theme=dark&hide_border=false" height="160" alt="Languages" />
-  </p>
 
   <br><br>
 
@@ -46,7 +37,7 @@
   
   <br>
 
-  <h3 style="color: #A78BFA;">📫 Me Contacter</h3>
+  <h3 style="color: #A78BFA;"> Me Contacter</h3>
   <p align="center">
     <a href="mailto:TON_EMAIL@GMAIL.COM">
       <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
