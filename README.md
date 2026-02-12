@@ -42,15 +42,12 @@
     <a href="mailto:melindaaland1@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
     </a>
-    &nbsp;
     <a href="https://www.linkedin.com/in/melindaaland/">
       <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
     </a>
-    &nbsp;
     <a href="https://discord.com/users/814067233424539648">
       <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
     </a>
-    &nbsp;
         <a href="https://linktr.ee/melindaland">
       <img src="https://skillicons.dev/icons?i=linktree&theme=dark" />
     </a>
