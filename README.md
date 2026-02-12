@@ -24,7 +24,7 @@
 
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Tech%20Stack&fontSize=24&fontColor=FE4A22" alt="Tech Stack">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Tech%20Stack&fontSize=18&fontColor=FE4A22" alt="Tech Stack">
 
   <p align="center">
     <a href="https://skillicons.dev">
