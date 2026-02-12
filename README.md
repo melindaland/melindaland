@@ -36,7 +36,7 @@
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Me%20Contacter&fontSize=18&fontColor=FE4A22" alt="Contact">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Contact&fontSize=18&fontColor=FE4A22" alt="Contact">
 
   <p align="center">
 
