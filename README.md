@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Melinda&fontSize=80&fontAlignY=35&desc=Front-End%20Dev%20%7C%20UI%2FUX%20Designer&descAlignY=65&descSize=20&animation=fadeIn&fontColor=ffffff&customColorList=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Melinda&fontSize=60&fontAlignY=35&desc=Front-End%20Dev%20%7C%20UI%2FUX%20Designer&descAlignY=65&descSize=18&animation=fadeIn&fontColor=ffffff&customColorList=18">
 
   <br>
 
@@ -14,7 +14,7 @@
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=50&section=header&text=UI%2FUX%20%26%20Design&fontSize=30&fontColor=A78BFA" alt="UI UX Design">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=UI%20UX%20Design&fontSize=24&fontColor=A78BFA" alt="UI UX Design">
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=50&section=header&text=Tech%20Stack&fontSize=30&fontColor=A78BFA" alt="Tech Stack">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Tech%20Stack&fontSize=24&fontColor=A78BFA" alt="Tech Stack">
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=50&section=header&text=Me%20Contacter&fontSize=30&fontColor=A78BFA" alt="Me Contacter">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Me%20Contacter&fontSize=24&fontColor=A78BFA" alt="Me Contacter">
 
   <p align="center">
     <a href="mailto:melindaaland1@gmail.com">
