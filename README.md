@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Melinda&fontSize=80&fontAlignY=35&desc=Front-End%20Dev%20%7C%20UI%2FUX%20Designer&descAlignY=65&descSize=20&animation=fadeIn&fontColor=ffffff&customColorList=18">
 
 
-  <br><br>
+  <br>
 
   <a href="https://portfolio-melnda.netlify.app/">
     <img src="https://img.shields.io/badge/_Voir_Mon_Portfolio-ce2e6c?style=for-the-badge&logo=framer&logoColor=white&labelColor=A78BFA" height="50" />
   </a>
 
-  <br>
+  <br><br>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
@@ -29,7 +29,7 @@
     </a>
   </p>
 
-  <br><br>
+  <br>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
