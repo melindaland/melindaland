@@ -38,19 +38,18 @@
 
   <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Me%20Contacter&fontSize=18&fontColor=FE4A22" alt="Contact">
 
-<p align="center">
-    <a href="mailto:melindaaland1@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-    </a>
-    <a href="https://www.linkedin.com/in/melindaaland/">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-    </a>
-    <a href="https://discord.com/users/814067233424539648">
-      <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
-    </a>
-        <a href="https://linktr.ee/melindaland">
-      <img src="https://skillicons.dev/icons?i=linktree&theme=dark" />
-    </a>
-  </p>
+  <p align="center">
 
+   <a href="mailto:melindaaland1@gmail.com">
+     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+   </a>
+   &nbsp;
+   <a href="https://www.linkedin.com/in/melindaaland/">
+     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+   </a>
+   &nbsp;
+   <a href="https://discord.com/users/814067233424539648">
+     <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+   </a>
+   </p>
 </div>
