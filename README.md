@@ -14,7 +14,7 @@
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=UI%20UX%20Design&fontSize=18&fontColor=FE4A22" alt="UI UX Design">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=UI%20UX%20Design&fontSize=18&fontColor=FE4A22" alt="ui ux design">
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Tech%20Stack&fontSize=18&fontColor=FE4A22" alt="Tech Stack">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Tech%20Stack&fontSize=18&fontColor=FE4A22" alt="tech stack">
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Contact&fontSize=18&fontColor=FE4A22" alt="Contact">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=Montserrat&height=40&section=header&text=Contact&fontSize=18&fontColor=FE4A22" alt="contact">
 
   <p align="center">
 
