@@ -53,10 +53,10 @@
 
 <p align="center">
   <a href="https://github.com/melindaland">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide=rank&hide_border=true&bg_color=0d1117&title_color=F04B5E&icon_color=F04B5E&text_color=c9d1d9&include_all_commits=true" alt="Statistiques GitHub" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=F04B5E&icon_color=F04B5E&text_color=c9d1d9&include_all_commits=true" alt="Statistiques GitHub" />
   </a>
   <a href="https://github.com/melindaland">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&hide_border=true&bg_color=0d1117&title_color=F04B5E&text_color=c9d1d9" alt="Langages les plus utilisés" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&title_color=F04B5E&text_color=c9d1d9" alt="Langages les plus utilisés" />
   </a>
 </p>
 
