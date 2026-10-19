@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=230&section=header&text=melnd4&fontSize=56&fontAlignY=30&desc=Web%20Developer%20%7C%20Web%20Designer-nl-Connected%20devices%20%C2%B7%20Interactive%20interfaces%20%C2%B7%20Immersive%20experiences&descAlignY=52&descSize=20&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Web Developer | Web Designer — Connected devices · Interactive interfaces · Immersive experiences" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=190&section=header&text=melnd4&fontSize=56&fontAlignY=38&desc=Web%20Developer%20%7C%20Web%20Designer&descAlignY=62&descSize=26&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Web Developer | Web Designer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&duration=1500&pause=1000000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=520&height=24&lines=Connected+devices+%C2%B7+Interactive+interfaces+%C2%B7+Immersive+experiences" alt="Connected devices · Interactive interfaces · Immersive experiences" />
 
 <br>
 
@@ -8,7 +10,7 @@
 <a href="mailto:melindaaland1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://portfolio-melinda.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-<br>
+<hr>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=1500&pause=1000000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=400&height=44&lines=FRONTEND" alt="FRONTEND" />
 <br>
@@ -48,7 +50,7 @@
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
-<br>
+<hr>
 
 <img align="top" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=1500&pause=1000000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=390&height=44&lines=GITHUB+STATS" alt="GITHUB STATS" />
 <img align="top" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=1500&pause=1000000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=390&height=44&lines=MOST+USED+LANGUAGES" alt="MOST USED LANGUAGES" />
