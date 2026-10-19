@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=190&section=header&text=melnd4&fontSize=56&fontAlignY=38&desc=Web%20Developer%20%7C%20Web%20Designer&descAlignY=62&descSize=26&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Web Developer | Web Designer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=190&section=header&text=melnd4&fontSize=56&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Web%20Designer&descAlignY=62&descSize=26&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Web Developer · Web Designer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&duration=1500&pause=1000000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=520&height=24&lines=Connected+devices+%C2%B7+Interactive+interfaces+%C2%B7+Immersive+experiences" alt="Connected devices · Interactive interfaces · Immersive experiences" />
 
