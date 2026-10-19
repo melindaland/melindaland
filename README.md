@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=200&section=header&text=melnd4&fontSize=66&fontAlignY=35&desc=Web%20Developer%20%7C%20Web%20Designer&descAlignY=58&descSize=20&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Web Developer | Web Designer" />
-
-<sub>Connected devices · Interactive interfaces · Immersive experiences</sub>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=225&section=header&text=melnd4&fontSize=66&fontAlignY=30&desc=Web%20Developer%20%7C%20Web%20Designer-nl-Connected%20devices%20%C2%B7%20Interactive%20interfaces%20%C2%B7%20Immersive%20experiences&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Web Developer | Web Designer — Connected devices · Interactive interfaces · Immersive experiences" />
 
 <a href="https://www.linkedin.com/in/melindaaland/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:melindaaland1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -52,8 +48,13 @@
 
 <br><br>
 
-<a href="https://github.com/melindaland">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=F04B5E&icon_color=F04B5E&text_color=c9d1d9&include_all_commits=true" alt="Statistiques GitHub" />
-</a>
+<p align="center">
+  <a href="https://github.com/melindaland">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=F04B5E&icon_color=F04B5E&text_color=c9d1d9&include_all_commits=true" alt="Statistiques GitHub" />
+  </a>
+  <a href="https://github.com/melindaland">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&title_color=F04B5E&text_color=c9d1d9" alt="Most used languages" />
+  </a>
+</p>
 
 </div>
