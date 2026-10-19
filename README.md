@@ -1,24 +1,8 @@
-<!-- ================= PARTIE 1 : fichier banner.svg ================= -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#F04B5E"/>
-      <stop offset="100%" stop-color="#C92F49"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,0 H1000 V190 C850,225 650,170 500,190 C350,210 150,165 0,195 Z" fill="url(#g)"/>
-  <path d="M0,195 C150,165 350,210 500,190 C650,170 850,225 1000,190 V210 C850,245 650,190 500,210 C350,230 150,185 0,215 Z" fill="#000" fill-opacity="0.25"/>
-  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#ffffff" text-anchor="middle">
-    <text x="500" y="90" font-size="56" font-weight="700">melnd4</text>
-    <text x="500" y="130" font-size="26" font-weight="600">Web Developer | Web Designer</text>
-    <text x="500" y="160" font-size="15" font-weight="400" opacity="0.9">Connected devices · Interactive interfaces · Immersive experiences</text>
-  </g>
-</svg>
-
-<!-- ================= PARTIE 2 : fichier README.md ================= -->
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="melnd4 — Web Developer | Web Designer — Connected devices · Interactive interfaces · Immersive experiences" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=190&section=header&text=melnd4&fontSize=56&fontAlignY=38&desc=Web%20Developer%20%7C%20Web%20Designer&descAlignY=62&descSize=26&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Web Developer | Web Designer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&duration=1500&pause=1000000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=520&height=24&lines=Connected+devices+%C2%B7+Interactive+interfaces+%C2%B7+Immersive+experiences" alt="Connected devices · Interactive interfaces · Immersive experiences" />
 
 <br>
 
