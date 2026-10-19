@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=205&section=header&text=melnd4&fontSize=66&fontAlignY=34&desc=Web%20Developer%20%7C%20Web%20Designer&descAlignY=67&descSize=25&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Web Developer | Web Designer" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F04B5E,100:C92F49&height=38&section=header&text=Objets%20connect%C3%A9s%20%C2%B7%20Interfaces%20interactives%20%C2%B7%20Exp%C3%A9riences%20immersives&fontSize=15&fontColor=ffffff" alt="Objets connectés · Interfaces interactives · Expériences immersives" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=225&section=header&text=melnd4&fontSize=66&fontAlignY=30&desc=Objets%20connect%C3%A9s%20%C2%B7%20Interfaces%20interactives%20%C2%B7%20Exp%C3%A9riences%20immersives-nl-Web%20Developer%20%7C%20Web%20Designer&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Objets connectés · Interfaces interactives · Expériences immersives — Web Developer | Web Designer" />
 
 <a href="https://www.linkedin.com/in/melindaaland/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:melindaaland1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -52,17 +51,13 @@
 
 <br><br>
 
----
-
-<sub>GITHUB STATS</sub>
-
-<sub>Activité publique : commits, étoiles, pull requests et langages utilisés.</sub>
-
-<a href="https://github.com/melindaland">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide=rank&hide_border=true&bg_color=0d1117&title_color=F04B5E&icon_color=F04B5E&text_color=c9d1d9&include_all_commits=true" alt="Statistiques GitHub" />
-</a>
-<a href="https://github.com/melindaland">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&hide_border=true&bg_color=0d1117&title_color=F04B5E&text_color=c9d1d9" alt="Langages les plus utilisés" />
-</a>
+<p align="center">
+  <a href="https://github.com/melindaland">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide=rank&hide_border=true&bg_color=0d1117&title_color=F04B5E&icon_color=F04B5E&text_color=c9d1d9&include_all_commits=true" alt="Statistiques GitHub" />
+  </a>
+  <a href="https://github.com/melindaland">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&hide_border=true&bg_color=0d1117&title_color=F04B5E&text_color=c9d1d9" alt="Langages les plus utilisés" />
+  </a>
+</p>
 
 </div>
