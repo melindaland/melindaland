@@ -48,13 +48,23 @@
 
 <br><br>
 
-<p align="center">
-  <a href="https://github.com/melindaland">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=F04B5E&icon_color=F04B5E&text_color=c9d1d9&include_all_commits=true" alt="Statistiques GitHub" />
-  </a>
-  <a href="https://github.com/melindaland">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&title_color=F04B5E&text_color=c9d1d9" alt="Most used languages" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <sub>GITHUB STATS</sub>
+      <br>
+      <a href="https://github.com/melindaland">
+        <img width="440" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&text_bold=false&line_height=32&card_width=440&bg_color=0d1117&icon_color=F04B5E&text_color=c9d1d9" alt="GitHub stats" />
+      </a>
+    </td>
+    <td align="center">
+      <sub>MOST USED LANGUAGES</sub>
+      <br>
+      <a href="https://github.com/melindaland">
+        <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&hide_title=true&hide_border=true&text_bold=false&card_width=440&bg_color=0d1117&text_color=c9d1d9" alt="Most used languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
