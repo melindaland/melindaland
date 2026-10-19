@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="banner.svg" alt="melnd4 — Web Developer | Web Designer. Objets connectés, interfaces interactives, expériences immersives." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=205&section=header&text=melnd4&fontSize=66&fontAlignY=34&desc=Web%20Developer%20%7C%20Web%20Designer&descAlignY=67&descSize=25&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Web Developer | Web Designer" />
+
+<sub>Objets connectés · Interfaces interactives · Expériences immersives</sub>
 
 <a href="https://www.linkedin.com/in/melindaaland/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:melindaaland1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
