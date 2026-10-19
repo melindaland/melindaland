@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=190&section=header&text=melnd4&fontSize=56&fontAlignY=38&desc=Connected%20devices%20%C2%B7%20Interactive%20interfaces%20%C2%B7%20Immersive%20experiences&descAlignY=62&descSize=20&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Connected devices · Interactive interfaces · Immersive experiences" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04B5E,100:C92F49&height=190&section=header&text=melnd4&fontSize=56&fontAlignY=38&desc=connected%20devices%20%C2%B7%20interactive%20interfaces%20%C2%B7%20immersive%20experiences&descAlignY=62&descSize=20&fontColor=ffffff&animation=fadeIn" alt="melnd4 — Connected devices · Interactive interfaces · Immersive experiences" />
 
 <br>
 
