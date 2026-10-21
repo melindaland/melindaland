@@ -53,7 +53,7 @@
 <img align="top" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=1500&pause=1000000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=390&height=44&lines=GITHUB+STATS" alt="GITHUB STATS" />
 <img align="top" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=1500&pause=1000000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=390&height=44&lines=MOST+USED+LANGUAGES" alt="MOST USED LANGUAGES" />
 <br>
-<a href="https://github.com/melindaland"><img align="top" width="390" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&text_bold=false&line_height=30&card_width=390&bg_color=0d1117&icon_color=F04B5E&text_color=c9d1d9" alt="GitHub stats" /></a>
+<a href="https://github.com/melindaland"><img align="top" width="390" src="https://github-readme-stats.vercel.app/api?username=melindaland&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&text_bold=false&line_height=30&card_width=390&bg_color=0d1117&icon_color=F04B5E&text_color=c9d1d9" alt="GitHub stats" /></a>
 <a href="https://github.com/melindaland"><img align="top" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melindaland&layout=compact&hide_title=true&hide_border=true&text_bold=false&card_width=390&bg_color=0d1117&text_color=c9d1d9" alt="Most used languages" /></a>
 
 </div>
